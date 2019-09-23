@@ -1,0 +1,38 @@
+<!doctype html> <!-- getpost.html-->
+
+<html>
+
+  <head>
+
+    <meta charset="utf-8"/>
+
+    <meta name="viewport"content="width=device-width,initial-scale=1"/>
+
+    <title>3주차실습(1)</title>
+
+  </head>
+
+  <body>
+
+    <h1 id="aList">3주차실습</h1>
+
+    <ul>
+
+      <li><img src="https://hyeonjinyeom.github.io/20190920/0918jsp01.PNG"alt="화면"/></li>
+
+      <li><img src="https://hyeonjinyeom.github.io/20190920/0918jsp02.PNG"alt="화면"/></li>
+
+      <li><img src="https://hyeonjinyeom.github.io/20190920/0918get01.PNG"alt="화면"/></li>
+      
+      <li><img src="https://hyeonjinyeom.github.io/20190920/0918get02.PNG"alt="화면"/></li>
+     
+      <li><img src="https://hyeonjinyeom.github.io/20190920/0918post01.PNG"alt="화면"/></li>
+      
+      <li><img src="https://hyeonjinyeom.github.io/20190920/0918post02.PNG"alt="화면"/></li>
+    </ul>
+
+    <hr/>
+
+  </body>
+
+</html>
