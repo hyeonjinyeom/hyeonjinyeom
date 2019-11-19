@@ -1,0 +1,31 @@
+<!doctype html> <!-- dice.html-->
+
+<html>
+
+  <head>
+
+    <meta charset="utf-8"/>
+
+    <meta name="viewport"content="width=device-width,initial-scale=1"/>
+
+    <title>11주차실습(3)</title>
+
+  </head>
+
+  <body>
+
+    <h1 id="aList">11주차실습(3)</h1>
+    
+    <ul>
+
+      
+      <li><img src="https://hyeonjinyeom.github.io/20191114/1.PNG"alt="화면"/></li>
+      <li><img src="https://hyeonjinyeom.github.io/20191114/2.PNG"alt="화면"/></li>
+
+    </ul>
+
+    <hr/>
+
+  </body>
+
+</html>
